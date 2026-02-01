@@ -7,26 +7,26 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to 
 
 Data Cleaning:
 
-Filled missing values in director, cast, country, rating, and duration
-Converted release dates to datetime
-Extracted year added, month added, and content age
+Filled missing values in director, cast, country, rating, and duration.
+Converted release dates to datetime,
+Extracted year added, month added, and content age,and 
 Standardized duration for Movies and TV 
 
 Exploratory Data Analysis:
 
-Visualized Movies vs TV Shows count and age distribution
-Analyzed ratings trends across years
-Studied gap between release year and Netflix addition year
-Generated insights from most common word pairs in descriptions
-Identified top directors and their contributions
+Visualized Movies vs TV Shows count and age distribution,
+Analyzed ratings trends across years,
+Studied gap between release year and Netflix addition year,
+Generated insights from most common word pairs in descriptions,
+Identified top directors and their contributions.
 
 Tools & Technologies:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,and 
 Google Colab
 
 Conclusion:
